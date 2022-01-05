@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋 
 
 - 🔭 I’m currently working on further strengthening my skills in Javascript and Python. 
 - 💬 Ask me about dating apps! 
