@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on further strengthening my skills in Javascript and Python. 
 - 💬 Ask me about dating apps! 
 - 📫 How to reach me: [email](ksry@alumni.stanford.edu)
