@@ -1,5 +1,5 @@
  <p align="center">
- <img src="https://res.cloudinary.com/mabmab/image/upload/v1645084324/khmer_food/Kelsey_gjjdr3.png" alt="cover pic">
+ <img src="https://res.cloudinary.com/mabmab/image/upload/v1645117720/khmer_food/Kelsey_qmnkfl.png" alt="cover pic">
  </p>
 
 - 💬 Ask me about dating apps! 
