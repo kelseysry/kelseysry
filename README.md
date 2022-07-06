@@ -2,7 +2,6 @@
  <img src="https://res.cloudinary.com/mabmab/image/upload/v1645117720/khmer_food/Kelsey_qmnkfl.png" alt="cover pic">
  </p>
 
-- 💬 Ask me about dating apps! 
 - 📫 How to reach me: ksry@alumni.stanford.edu
 - 😄 Pronouns: She/Her
 - 🇰🇭 Fun fact: I lived and worked in Cambodia for about a year so I'm a walking yelp review for restaurants in Phnom Penh, Cambodia. I ate out everyday so I've tried everything from insects to luxury dining. 
